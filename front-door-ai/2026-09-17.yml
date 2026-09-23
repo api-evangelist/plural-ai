@@ -1,0 +1,30 @@
+# Front Door AI Index — plural-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: plural-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.plural.ai
+  final_host: www.plural.ai
+  ownership: own
+  owner: plural-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 14
+  host_score: 14
+  density: 30.84
+  words: 454
+  tiers:
+    agentic: 4
+    core: 10
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 10
+    agent: 4
+    AI agent: 2
+    intelligence: 2
+    MCP: 1
+    prompts: 1
